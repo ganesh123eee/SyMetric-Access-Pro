@@ -1,0 +1,8 @@
+{
+  "name": "AssessPro Enterprise",
+  "description": "Premium SaaS platform for employee assessment digitalization, AI question extraction, and reviewer-led evaluation workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
